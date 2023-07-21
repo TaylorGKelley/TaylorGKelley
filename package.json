@@ -1,0 +1,11 @@
+{
+	"name": "breadbase",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"author": "Taylor G Kelley",
+	"license": "ISC"
+}
