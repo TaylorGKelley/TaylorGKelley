@@ -1,9 +1,10 @@
-Hi, my name is Taylor Kelley
+### Hi, my name is Taylor Kelley
 
-I am a full stack software engineer.
+**I am a full stack software engineer.**
 
-My favorite development stack is the popular MERN stack. 
+I love coding in Javascript.
+My preferred tech stack is React, Express with Node.js, and MongoDB (the MERN stack)
 
-This is where all of my personal projects will be stored.
 
-Enjoy :)
+> This is where all of my personal projects will be stored.
+> Enjoy :)
