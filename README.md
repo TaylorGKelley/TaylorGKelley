@@ -2,8 +2,7 @@
 
 **I am a full stack software engineer.**
 
-I love coding in Javascript.
-
+I love coding in TypeScript.
 
 > This is where all of my personal projects will be stored.
 
