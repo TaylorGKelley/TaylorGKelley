@@ -1,6 +1,6 @@
 # Hey there 👋
 
-My name is Taylor Kelley, a full-stack web developer. I code in TypeScript using React, Express and Node.js. PostgreSQL is my favorite DB for hobby projects.
+My name is Taylor Kelley, a full-stack web developer. I code in TypeScript using React, Express and Node.js.
 
 ## Tech Stack
 
