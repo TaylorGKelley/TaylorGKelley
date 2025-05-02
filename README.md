@@ -1,13 +1,11 @@
-## Hey there 👋
-
-<hr />
+# Hey there 👋
 
 My name is Taylor Kelley, a full-stack web developer. I code in TypeScript using React, Express and Node.js. PostgreSQL is my favorite DB for hobby projects.
 
-#### Skills
+## Tech Stack
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
-	<img width="64" src="https://github.com/user-attachments/assets/1ef7b2b2-b0e7-4bd3-b468-62e8548d7782" title="TypeScript" />
+<div>
+	<img width="64" src="https://github.com/user-attachments/assets/0f1dd7b4-0aff-4065-bc20-63d25685a5d8" title="TypeScript" />
 	<img width="64" src="https://github.com/user-attachments/assets/0750d293-ae1a-4d82-bc5c-d6196abffdcd" title="React" />
 	<img width="64" src="https://github.com/user-attachments/assets/fd364a0f-3f41-4b9b-923a-4d7935d78ac4" title="tailwindcss" />
 	<img width="64" src="https://github.com/user-attachments/assets/6ebbd893-aaf0-43d9-b6ca-a4ae1e0ae9c8" title="Node JS" />
