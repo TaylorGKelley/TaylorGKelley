@@ -1,6 +1,6 @@
 # Hey there 👋
 
-My name is Taylor Kelley, a full-stack web developer. I code in TypeScript using React, Express and Node.js.
+My name is Taylor Kelley, a full-stack web developer. I code in either TypeScript using React, Express and Node.js, or with C# using Blazor and .Net REST APIs.
 
 ## Tech Stack
 
