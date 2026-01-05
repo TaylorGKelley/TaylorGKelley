@@ -2,7 +2,13 @@
 
 My name is Taylor Kelley, a full-stack web developer. I code in either TypeScript using React, Express and Node.js, or with C# using Blazor and .Net REST APIs.
 
-## Tech Stack
+## Projects
+
+### [TayLabs](https://github.com/TayLabs)
+
+I am currently working on creating a backend suite of different Rest APIs including an Authentication, API Key, Mail and Dashboard to manage them all. I eventually plan to add a Billing and Media service to the mix. 
+
+## My Personal Tech Stack
 
 <div>
 	<img height="64" src="https://github.com/user-attachments/assets/27441325-e053-4814-8422-945df87e45c6" title="TypeScript"/>
