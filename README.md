@@ -1,24 +1,16 @@
 # Hey there 👋
 
-My name is Taylor Kelley, a full-stack web developer. I code in either TypeScript using React, Express and Node.js, or with C# using Blazor and .Net REST APIs.
+My name is Taylor Kelley. I am a full-stack web developer who codes in either TypeScript/JavaScript (React/NextJS and NestJS/Express) or with C# (.Net APIs and Blazor). Some of my notable accomplishments have been creating a [full-stack authentication service](https://github.com/TayLabs/Auth) and a fully featured [rich text editor with Blazor Server-side rendering](https://github.com/TaylorGKelley/BlazorUI).
 
-## Projects
+## My Tech Stack
 
-### [TayLabs](https://github.com/TayLabs)
+**Frontend:** Next.js, Tailwind CSS, Shadcn UI
+**Backend:** NestJS, GraphQL, Drizzle ORM
+**Infrastructure:** Docker, Proxmox, Coolify
+**Tools:** Zed, Figma, Obsidian, Postman
 
-I am currently working on creating a backend suite of different Rest APIs including an Authentication, API Key, Mail and Dashboard to manage them all. I eventually plan to add a Billing and Media service to the mix. 
+## Socials
 
-## My Personal Tech Stack
-
-<div>
-	<img height="64" src="https://github.com/user-attachments/assets/27441325-e053-4814-8422-945df87e45c6" title="TypeScript"/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="64" src="https://github.com/user-attachments/assets/0f1dd7b4-0aff-4065-bc20-63d25685a5d8" title="React" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="64" src="https://github.com/user-attachments/assets/fd364a0f-3f41-4b9b-923a-4d7935d78ac4" title="TailwindCss" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="64" src="https://github.com/user-attachments/assets/6ebbd893-aaf0-43d9-b6ca-a4ae1e0ae9c8" title="Node JS" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="64" src="https://github.com/user-attachments/assets/03da8be7-a983-47cf-8ed9-2d82cc815b04" title="PostgreSQL" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+- [YouTube Channel | taylorkelley-dev](https://youtube.com/@taylorkelley-dev)
+- [Blog](https://taylorkelley.dev/blog)
+- [LinkedIn | taylor-g-kelley](https://linkedin.com/in/taylor-g-kelley)
