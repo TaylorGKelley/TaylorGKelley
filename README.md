@@ -5,8 +5,11 @@ My name is Taylor Kelley. I am a full-stack web developer who codes in either Ty
 ## My Tech Stack
 
 **Frontend:** Next.js, Tailwind CSS, Shadcn UI
+
 **Backend:** NestJS, GraphQL, Drizzle ORM
+
 **Infrastructure:** Docker, Proxmox, Coolify
+
 **Tools:** Zed, Figma, Obsidian, Postman
 
 ## Socials
